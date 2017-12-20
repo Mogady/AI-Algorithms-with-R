@@ -4,6 +4,9 @@ Here i'm implmenting some AI algorthims with R for my college assignments
 simple prisoner problem with DFs search algorthim 
 ## 2-CSP 
 Solve map coloring problem using Backtrack algorthim 
+
+![map_coloring](https://user-images.githubusercontent.com/20929301/34196002-c5657da2-e568-11e7-9ea0-803c29f499e3.gif)
+
 ## 3-MDP 
 implment VAlue iteration algorthim on simple race car problem from berkeley.AI course
 ## 4-Qlearn
