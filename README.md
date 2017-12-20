@@ -13,3 +13,6 @@ implment VAlue iteration algorthim on simple race car problem from berkeley.AI c
 ![mdp](https://user-images.githubusercontent.com/20929301/34196062-1c06143c-e569-11e7-9713-f1944f48dd4d.PNG)
 ## 4-Qlearn
 Implment Q learn algorthim on example that describes an agent which uses unsupervised training to learn about an unknown environment.
+
+
+![modeling_environment](https://user-images.githubusercontent.com/20929301/34196099-3f5ca14e-e569-11e7-807a-1ea2872cac54.gif)
